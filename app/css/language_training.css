@@ -1,0 +1,61 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.hero-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh; /* Height of the central area */
+    text-align: center;
+}
+.word-display {
+    font-size: 24px;
+    margin-bottom: 100px; /* Increased spacing */
+}
+.input-field {
+    width: 200px;
+    border: none;
+    border-bottom: 2px dotted gray; /* Standard gray dotted line */
+    background-color: transparent;
+    opacity: 0.5;
+    font-size: 18px;
+    color: black;
+}
+.input-field:focus {
+    outline: none;
+    opacity: 1;
+}
+
+.input-field.correct {
+    border-bottom: 2px dotted green; /* Green dotted line for correct answer */
+}
+
+.input-field.incorrect {
+    border-bottom: 2px dotted red; /* Red dotted line for incorrect answer */
+}
+
+.dark-mode {
+    background-color: #202124; /* Background */
+    color: #e8eaed; /* Text color */
+    /* and other dark mode styles */
+}
+
+.dark-mode .hero.is-primary {
+    background-color: #5f6368; /* Dark background for the hero area */
+    color: #e8eaed;
+}
+
+.dark-mode .word-display {
+    background-color: #202124; /* Dark background for the footer */
+    color: #e8eaed; /* Light text color for the footer */
+}

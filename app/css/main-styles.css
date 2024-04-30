@@ -1,0 +1,199 @@
+html,
+body {
+    height: 100%;
+    min-height: 100%;
+}
+
+/* Basic appearance of the page (Light Mode) */
+body {
+    background-color: #FFFFFF; /* Light background */
+    color: #000000; /* Dark text */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Viewport height */
+}
+
+.content {
+    flex: 1; /* Allows the content to take up the available space */
+}
+
+/* Dark Mode */
+.dark-mode .hero.is-primary {
+    background-color: #5f6368; /* Dark background for the hero area */
+    color: #e8eaed;
+}
+
+.dark-mode .card {
+    background-color: #303134; /* Dark background for cards */
+    color: #e8eaed; /* Light text color for cards */
+    border: 1px solid #5f6368; /* Border color for cards */
+}
+
+.dark-mode .card.add-card {
+    background-color: #3c4043; /* Dark background for add card */
+    border-color: #5f6368; /* Border color for add card */
+}
+
+.dark-mode .card.add-card:hover {
+    background-color: #5f6368; /* Darker background color on hover */
+}
+
+.dark-mode .footer {
+    background-color: #202124; /* Dark background for the footer */
+    color: #e8eaed; /* Light text color for the footer */
+}
+
+/* Dark Mode specific styles */
+.dark-mode {
+    background-color: #202124; /* Background */
+    color: #e8eaed; /* Text color */
+}
+
+.dark-mode .title {
+    color: #a8a8a8; /* Darker text color for titles in Dark Mode */
+}
+
+.dark-mode .card.add-card {
+    color: #a8a8a8; /* Darker text color for add card in Dark Mode */
+}
+
+/* Dark Mode Switch */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+
+input:checked + .slider {
+    background-color: #2196F3;
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+/* Rounded Slider */
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+.hero-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    width: 300px;
+    cursor: pointer;
+}
+
+.card.add-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #4a4a4a;
+    font-size: 24px;
+    background-color: #f5f5f5;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #dbdbdb;
+}
+
+.card.add-card:hover {
+    background-color: #e8e8e8;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-container {
+    flex-grow: 1;
+}
+
+.circle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 20px;
+}
+
+.circle-line {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.circle.red {
+    background-color: red;
+}
+
+.circle.orange {
+    background-color: orange;
+}
+
+.circle.green {
+    background-color: green;
+}
+
+.circle-number {
+    margin-bottom: 5px;
+}

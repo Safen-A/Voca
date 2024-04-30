@@ -1,0 +1,58 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Vocabulary Trainer App</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+        <link rel="stylesheet" href="css/main-styles.css">
+    </head>
+
+    <body>
+        <section class="hero is-primary">
+            <div class="hero-body">
+                <div class="container">
+                    <div class="level">
+                        <div class="level-left">
+                            <p class="title">
+                                Vocabulary Trainer App
+                            </p>
+                        </div>
+                        <div class="level-right">
+                            <label class="switch">
+                                <input type="checkbox" id="mode-switch">
+                                <span class="slider round"></span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="container">
+                <h1 class="title has-text-centered">Choose Your Flashcard Set</h1>
+                <div class="cards" style="display: flex; flex-direction: column; align-items: center;">
+
+                    <div
+                        class="card">
+                        <!-- Box for adding new flashcards -->
+                        <button class="card add-card" id="add-card-button">+</button>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <div class="content has-text-centered">
+                <p>
+                    Vocabulary Trainer App
+                </p>
+            </div>
+        </footer>
+
+        <script src="js/main-functions.js"></script>
+
+    </body>
+
+</html>

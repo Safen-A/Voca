@@ -1,0 +1,586 @@
+german,english,status
+der Abend,evening,red
+alles,everything,red
+antworten,answer,red
+auch,also,red
+auf,to,red
+aus,from,red
+die Aussage,statement,red
+bisschen,a little,red
+bitte,please,red
+danke,thank you,red
+dann,then,red
+das,that,red
+der,the,red
+Deutsch,german,red
+der Dialog,dialog,red
+die,the,red
+dir,you,red
+du,you,red
+"ein, eine","one, one",red
+die Entschuldigung,apology,red
+er,he,red
+es,it,red
+die Form,form,red
+die Frage,question,red
+fragen,ask,red
+die Frau,woman,red
+ganz,all,red
+gehen,go,red
+die Grammatik,grammar,red
+gut,good,red
+hallo,hello,red
+heißen,are called,red
+der Herr,gentleman,red
+hören,hear,red
+ich,I,red
+Ihnen,you,red
+ihr,her,red
+im,in the,red
+ja,yes,red
+klar,clear,red
+kommen,come,red
+Der Kurs,course,red
+Der Kursteilnehmer,course participant,red
+Das Land,country,red
+lesen,reading,red
+Der Mann,man,red
+"mein, meine","my, my",red
+mit,with,red
+morgen,tomorrow,red
+Die Nacht,night,red
+Der Name,name,red
+nein,no,red
+neu,new,red
+nicht,not,red
+oder,or,red
+Die Person,person,red
+richtig,correct,red
+Der Satz,sentence,red
+schreiben,write,red
+sehr,very,red
+sein,be,red
+sie,she,red
+Sie,they,red
+so,like this,red
+Die Sprache,language,red
+sprechen,speak,red
+supergut,super good,red
+Der Tag,day,red
+Tschüss,bye,red
+und,and,red
+was,what,red
+welche,which,red
+wer,who,red
+Das Wiedersehen,reunion,red
+wie,how,red
+wissen,know,red
+wo,where,red
+woher,from where,red
+das Wort,word,red
+aber,but,red
+Die Adresse,address,red
+alt,old,red
+anmelden,register,red
+Die Anmeldung,registration,red
+arbeiten,work,red
+das Bild,picture,red
+Der Bruder,brother,red
+buchstabieren,spell,red
+"dein, deine","yours, yours",red
+einmal,once,red
+Die Eltern /Pl.,parents /pl.,red
+falsch,wrong,red
+die Familie,family,red
+der Familienname,family name,red
+der Familienstand,marital status,red
+das Formular,form,red
+geschieden,divorced,red
+die Geschwister /Pl.,siblings /pl.,red
+haben,have,red
+die Handynummer,cell phone number,red
+die Hausnummer,house number,red
+das Heimatland,home country,red
+hier,here,red
+"Ihr, Ihre","your, your",red
+in,in,red
+die Information,information,red
+das Jahr,year,red
+jetzt,now,red
+"kein, keine","none, none",red
+das Kind,child,red
+der Kindergarten,kindergarten,red
+der Kontakt,contact,red
+leben,live,red
+ledig,single,red
+die E-Mail,e-mail,red
+möchten,want,red
+die Mutter,mother,red
+nach,after,red
+der Nachname,surname,red
+noch,and,red
+die Postleitzahl,zip code,red
+die Schwester,sister,red
+die Schwägerin,sister-in-law,red
+die Schwiegertochter,daughter-in-law,red
+der Schwiegervater,father-in-law,red
+der Sohn,son,red
+die Straße,street,red
+die Telefonnummer,telephone number,red
+die Tochter,daughter,red
+über,about,red
+der Vater,father,red
+vergleichen,compare,red
+verheiratet,married,red
+verwitwet,widowed,red
+"viel, viele","much, many",red
+der Vorname,first name,red
+vorstellen,introduce,red
+"welcher, welche, welches","which, which, which",red
+willkommen,welcome,red
+wir,we,red
+wohnen,live,red
+der Wohnort,place of residence,red
+die Zahl,number,red
+zu,to,red
+also,so,red
+an,to,red
+andere,others,red
+benutzen,use,red
+das Blatt,sheet,red
+der Bleistift,pencil,red
+das Buch,book,red
+da,there,red
+der Deutschkurs,german course,red
+der Dienstag,tuesday,red
+doch,but,red
+Der Donnerstag,thursday,red
+endlich,finally,red
+erklären,explain,red
+erzählen,tell,red
+Das Familienfoto,family photo,red
+Der Feiertag,holiday,red
+Das Fenster,window,red
+Das Foto,photo,red
+fragen,ask,red
+Der Freitag,friday,red
+Der Freund,friend,red
+für,for,red
+genau,exactly,red
+gestern,yesterday,red
+groß,big,red
+Der Gruß,greeting,red
+Die Hausaufgabe,homework,red
+Das Heft,notebook,red
+heute,today,red
+ihr,you,red
+immer,always,red
+Die Karte,card,red
+klein,small,red
+knifflig,tricky,red
+Der Kugelschreiber /Kuli,ballpoint pen / pencil,red
+Das Kursbuch,course book,red
+Der Kursraum,course room,red
+Die Lampe,lamp,red
+Die Landkarte,map,red
+langsam,slowly,red
+Der Lehrer,teacher,red
+Die Lehrerin,teacher,red
+lernen,learn,red
+lesen,read,red
+liebe,love,red
+die Liste,list,red
+machen,make,red
+mir,me,red
+Mittwoch,wednesday,red
+Montag,monday,red
+natürlich,of course,red
+nett,nice,red
+das Papier,paper,red
+der Papierkorb,wastepaper basket,red
+die Pause,break,red
+das Problem,problem,red
+der Projektor,projector,red
+der Radiergummi,eraser,red
+der Raum,room,red
+der Rucksack,backpack,red
+die Sache,thing,red
+sagen ,say ,red
+der Samstag,saturday,red
+sehen,see,red
+Die Seite,page,red
+Der Schlüssel,key,red
+schnell,fast,red
+Der Sonntag,sunday,red
+Der Spaß,fun,red
+spielen,play,red
+der Spitzer,sharpener,red
+der Stuhl,chair,red
+die Tabelle,table,red
+die Tafel,blackboard,red
+die Tasche,bag,red
+der Text,text,red
+der Tisch,table,red
+die Tür,door,red
+übermorgen,day after tomorrow,red
+Die Übung,exercise,red
+Das Übungsbuch,exercise book,red
+verstehen,understand,red
+vorgestern,day before yesterday,red
+Die Wand,wall,red
+Die Woche,week,red
+Das Wochenende,weekend,red
+Das Wörterbuch,dictionary,red
+zeigen,show,red
+der Zettel,note,red
+zusammen,together,red
+das Angebot,offer,red
+die Antwort,answer,red
+der Apfel,apple,red
+der Apfelsaft,apple juice,red
+die Aufgabe,task,red
+die Babynahrung,baby food,red
+die Banane,banana,red
+der Becher,cup,red
+das Beispiel,example,red
+das Bier,beer,red
+die Birne,pear,red
+das Bistro,bistro,red
+die Blaubeere,blueberry,red
+die Bohne,bean,red
+brauchen,need,red
+das Brot,bread,red
+das Brötchen,roll,red
+der Cent,cent,red
+die Cola,coke,red
+der Couscous,couscous,red
+denn,because,red
+"diese, dieser, dieses","this, this, this",red
+die Dose,can,red
+durch,through,red
+das Ei,egg,red
+der Einkaufszettel,shopping list,red
+einige,some,red
+die Erbse,pea,red
+die Erdbeere,strawberry,red
+essen,eat,red
+etwas,something,red
+fertig,ready,red
+der Fisch,fish,red
+die Flasche,bottle,red
+das Fleisch,meat,red
+frisch,fresh,red
+das Frühstück,breakfast,red
+frühstücken,have breakfast,red
+gemeinsam,together,red
+das Gemüse,vegetables,red
+gern,with pleasure,red
+das Getränk,drink,red
+das Glas,glass,red
+gleich,same,red
+das Gramm,gram,red
+die Himbeere,raspberry,red
+der Honig,honey,red
+der Joghurt,yogurt,red
+der Kaffee,coffee,red
+die Kartoffel,potato,red
+der Käse,cheese,red
+kaufen,buy,red
+der Keks,cookie,red
+die Kichererbse,chickpea,red
+das Kilo,kilo,red
+die Kirsche,cherry,red
+die Kiwi,kiwi,red
+die Kontrolle,check,red
+kosten,cost,red
+der Kuchen,cake,red
+der Kunde,customer,red
+die Kundin,customer,red
+kurz,briefly,red
+das Lammfleisch,lamb,red
+das Lebensmittel,food,red
+die Limonade /Limo,lemonade,red
+der Liter,liter,red
+man,one,red
+die Mandarine,mandarin,red
+die Mango,mango,red
+der Markt,market,red
+die Marmelade,jam,red
+das Mehl,flour,red
+meistens,mostly,red
+die Mengenangabe,quantity,red
+die Melone,melon,red
+die Milch,milk,red
+Das Milchprodukt,dairy product,red
+mögen,like,red
+Die Möhre,carrot,red
+müssen,must,red
+nehmen,take,red
+Die Nudel,pasta,red
+nur,only,red
+Das Obst,fruit,red
+der Obstsalat,fruit salad,red
+Das Olivenöl,olive oil,red
+Die Orange,orange,red
+ordnen,arrange,red
+Die Packung,packet,red
+Die Paprika,bell pepper,red
+Der Partner,partner,red
+Die Partnerin,partner,red
+Das Pfund,pound,red
+Der Pilz,mushroom,red
+planen,plan,red
+Der Preis,price,red
+pro,per,red
+Der Pudding,pudding,red
+Der Reis,rice,red
+Das Rindfleisch,beef,red
+Der Saft,juice,red
+Die Sahne,cream,red
+Der Salat,salad,red
+Das Salz,salt,red
+sich,to,red
+schmecken,taste,red
+Die Schokolade,chocolate,red
+schön,nice,red
+Das Schweinefleisch,pork,red
+sonst,otherwise,red
+stehen,stand,red
+streichen,spread,red
+Das Stück,piece,red
+Die Tasse,cup,red
+Der Tee,tea,red
+teuer,expensive,red
+Der Tipp,tip,red
+Die Tomate,tomato,red
+Traube,grape,red
+trinken,drink,red
+unterstreichen,emphasize,red
+verbinden,connect,red
+Der Verkäufer,seller,red
+die Verkäuferin,seller,red
+von,from,red
+das Wasser,water,red
+Der Wein,wine,red
+Die Zitrone,lemon,red
+Der Zucker,sugar,red
+Die Zwiebe,onion,red
+abends,in evening,red
+Der Alltag,everyday life,red
+anrufen,call,red
+Die Arbeit,work,red
+aufstehen,get up,red
+beginnen,start,red
+beide,both,red
+Das Bett/Betten,bed/beds,red
+bis,until,red
+Das Büro/Büros,office/offices,red
+Der Computer/Computer,computer/computers,red
+das Computerspiel/Computerspiele,computer game/computer games,red
+erst,first,red
+fernsehen,television,red
+Der Film/Filme,movie/movies,red
+die Freundin/Freundinnen,girlfriend/girlfriends,red
+früh,early,red
+Der Fußball,soccer,red
+gehen,go,red
+geöffnet,open,red
+grillen,barbecue,red
+halb,half,red
+Der Hunger,hunger,red
+Die Idee/Ideen,idea/ideas,red
+Das Interview/Interviews,interview/interviews,red
+kochen,cook,red
+können,can,red
+lecker,delicious,red
+leider,unfortunately,red
+manchmal,sometimes,red
+mehr,more,red
+Der Mittag,noon,red
+mittags,at noon,red
+Die Mittagspause,lunch break,red
+Der Morgen,morning,red
+morgens,in morning,red
+müde,tired,red
+Die Musik,music,red
+Der Nachmittag,afternoon,red
+nachmittags,in afternoon,red
+nachts,at night,red
+nie,never,red
+Der Notizzettel,notepad,red
+oft,often,red
+Die Pizza,pizza,red
+putzen,clean,red
+schade,too bad,red
+schlafen,sleep,red
+Der Schluss,end,red
+Die Schule,school,red
+spät,late,red
+spazieren,walk,red
+Das Spiel,game,red
+Der Sport,sport,red
+Die Stunde,lesson,red
+Der Stundenplan,timetable,red
+Der Supermarkt,supermarket,red
+telefonieren,phone,red
+tun,do,red
+Die Uhr,clock,red
+Die Uhrzeit,time,red
+um,at,red
+Der Unterricht,lesson,red
+Das Viertel,quarter,red
+vor,before,red
+Der Vormittag,morning,red
+vormittags,in morning,red
+wann,when,red
+Die Wohnung/Wohnungen,apartment/flats,red
+zeichnen,draw,red
+Die Zeit,time,red
+ab,from,red
+Der Altbau,old building,red
+Die Angabe/Angaben,indication/indications,red
+Die Anzeige/Anzeigen,indication/display,red
+Das Arbeitszimmer,study,red
+Das Bad/Bäder,bathroom/bathrooms,red
+baden,bath,red
+Die Badewanne,bathtub,red
+Das Badezimmer,bathroom,red
+Der Balkon/Balkone,balcony/balconies,red
+Der Bauernhof/Bauernhöfe,farm/farms,red
+bei,at,red
+bekommen,get,red
+Der Besichtigungstermin,viewing appointment,red
+besser,better,red
+billig,cheap,red
+breit,wide,red
+circa,about,red
+dazu,in addition,red
+Die Diele,floorboard,red
+direkt,directly,red
+dort,there,red
+draußen,outside,red
+dringend,urgently,red
+dunkel,dark,red
+Die Dusche,shower,red
+Das Einfamilienhaus,detached house,red
+einkaufen,shopping,red
+Das Elektrogerät/Elektrogeräte,electrical appliance/electrical appliances,red
+Das Erdgeschoss,first floor,red
+ersetzen,replace,red
+Der Euro/Euros,euro/euros,red
+Der Fernseher/Fernseher,tv/television,red
+finden,find,red
+Die Firma/Firmen,company/companies,red
+Der Flur/Flure,hallway/corridors,red
+frei,free,red
+Die Garage/Garagen,garage/garages,red
+Der Garten/Gärten,garden/gardens,red
+Der Gast/Gäste,guest/guests,red
+Das Geld/Gelder,money/money,red
+gemütlich,cozy,red
+gepflegt,well-kept,red
+Das Gerät/Geräte,appliance/devices,red
+Das Geschäft/Geschäfte,shop/business,red
+Das Gespräch/Gespräche,conversation/conversations,red
+Größe,size,red
+grün,green,red
+hängen,hanging,red
+hässlich,ugly,red
+Die Hauptsache,main thing,red
+Das Haus/Häuser,house/houses,red
+Das Haustier/Haustiere,pet/pets,red
+Die Heizung,heating,red
+helfen,help,red
+hell,bright,red
+Der Herd,stove,red
+Die Hilfe,help,red
+hinten,at back,red
+Das Hochhaus,skyscraper,red
+"ihr, ihre","her, her",red
+Die Immobilie/Immobilien,property/real estate,red
+insgesamt,altogether,red
+interessant,interesting,red
+"jeder, jede, jedes","each, each, each",red
+Der Juni,june,red
+Die Kaffeemaschine,coffee machine,red
+kalt,cold,red
+Die Kaution,deposit,red
+Der Keller/Keller,cellar/basement,red
+Das Kinderzimmer,children's room,red
+Der Kleiderschrank,closet,red
+Die Küche/Küchen,kitchen/kitchenette,red
+Der Kühlschrank/Kühlschränke,refrigerator/fridges,red
+lang,long,red
+lassen,leave,red
+laut,loud,red
+liebsten /am liebsten,dearest /preferably,red
+liegen,lie,red
+maximal,maximum,red
+Das Mehrfamilienhaus,apartment building,red
+Die Miete,rent,red
+mindestens,at least,red
+Die Möbel /Pl.,furniture /pl.,red
+möbliert,furnished,red
+modern,modern,red
+Der Monat/Monate,month/months,red
+Die Monatsmieten,monthly rent,red
+Der Müll,garbage,red
+neben,beside,red
+Die Nebenkosten/Nebenkosten,additional costs/utilities,red
+ohne,without,red
+Das Obergeschoss,upper floor,red
+Der Ort/Orte,place/places,red
+Die Pflanze/Pflanzen,plant/plants,red
+Der Plan/Pläne,plan/plans,red
+Der Platz/Plätze,place/squares,red
+Der Quadratmeter/Quadratmeter,square meter/square meter,red
+Das Regal/Regale,shelf/shelves,red
+Das Reihenhaus,terraced house,red
+ruhig,quiet,red
+schauen,look,red
+Das Schlafzimmer,bedroom,red
+schmal,narrow,red
+Der Schrank/Schränke,wardrobe/cupboards,red
+Der Sessel/Sessel,armchair/chair,red
+singen,singing,red
+sitzen,sitting,red
+Das Sofa/Sofas,sofa/sofas,red
+sofort,immediately,red
+sollen,should,red
+Das Sonderangebot/Sonderangebote,special offer/special offers,red
+Die Sonne,sun,red
+sonstiges,other,red
+Die Sprachschule,language school,red
+spülen,washing up,red
+Die Spülmaschine/Spülmaschinen,dishwasher/dishwashers,red
+Die Stadt/Städte,city/cities,red
+suchen,search,red
+super,super,red
+Der Teppich,carpet,red
+Die Terrasse/Terrassen,terrace/terraces,red
+Die Toilette/Toiletten,toilet/toilets,red
+toll,great,red
+Die Traumwohnung,dream apartment,red
+unbedingt,absolutely,red
+ungemütlich,uncomfortable,red
+"unser, unsere","ours, ours",red
+warum,why,red
+waschen,wash,red
+Die Waschmaschine,washing machine,red
+Das WC,wc,red
+wegziehen,move away,red
+weiter,further,red
+wenn,when,red
+werden,become,red
+wichtig,important,red
+wohnen,live,red
+Die Wohnungsanzeige,apartment ad,red
+Die Wohnungssuche,apartment search,red
+Das Wohnzimmer,living room,red
+wunderschön,beautiful,red
+wünschen,wish,red
+zahlen,pay,red
+Die Zeitung/Zeitungen,newspaper/newspapers,red
+Das Zentrum,center,red
+Das Zimmer/Zimmer,room/room,red
+zu Fuß,on foot,red
